@@ -1,0 +1,38 @@
+{
+  "name": "impulse",
+  "version": "0.0.6",
+  "dependencies": {},
+  "homepage": "https://github.com/luster-io/physics",
+  "authors": [
+    "Zach Smith <x.coder.zach@gmail.com>"
+  ],
+  "description": "Impulse physics animations.",
+  "main": "lib/index.js",
+
+  "keywords": [
+    "physics",
+    "animation",
+    "dynamic",
+    "interaction",
+    "touch"
+  ],
+
+  "license": "MIT",
+
+  "files": [
+    "lib/accelerate.js",
+    "lib/animation.js",
+    "lib/attach-spring.js",
+    "lib/body.js",
+    "lib/boundary.js",
+    "lib/decelerate.js",
+    "lib/drag.js",
+    "lib/index.js",
+    "lib/interact.js",
+    "lib/renderer.js",
+    "lib/simulation.js",
+    "lib/spring.js",
+    "lib/util.js",
+    "lib/vector.js"
+  ]
+}
